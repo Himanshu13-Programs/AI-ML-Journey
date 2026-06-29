@@ -12,6 +12,7 @@ This is not a collection of tutorials followed. It is a record of problems solve
 | Week | Project | Domain | Algorithms | Status |
 |------|---------|--------|------------|--------|
 | Week 3 | [Loan Default Classifier](./week3-loan-default-classification/) | Fintech / Credit Risk | Decision Tree, KNN | ✅ Complete |
+| Week 4 | [Credit Card Fraud Detection](./week4-credit-card-fraud-detection/) | Fintech / Fraud Detection | Naive Bayes, Random Forest | ✅ Complete |
 
 *New projects added weekly as the roadmap progresses.*
 

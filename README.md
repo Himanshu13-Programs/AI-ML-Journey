@@ -13,6 +13,7 @@ This is not a collection of tutorials followed. It is a record of problems solve
 |------|---------|--------|------------|--------|
 | Week 3 | [Loan Default Classifier](./week3-loan-default-classification/) | Fintech / Credit Risk | Decision Tree, KNN | ✅ Complete |
 | Week 4 | [Credit Card Fraud Detection](./week4-credit-card-fraud-detection/) | Fintech / Fraud Detection | Naive Bayes, Random Forest | ✅ Complete |
+| Week 5 | [Stock Return Predictor](./week5-stock-return-predictor/) | Fintech / Quantitative Finance | Linear, Ridge & Lasso regression | ✅ Complete |
 
 *New projects added weekly as the roadmap progresses.*
 

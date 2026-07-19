@@ -14,6 +14,8 @@ This is not a collection of tutorials followed. It is a record of problems solve
 | Week 3 | [Loan Default Classifier](./week3-loan-default-classification/) | Fintech / Credit Risk | Decision Tree, KNN | ✅ Complete |
 | Week 4 | [Credit Card Fraud Detection](./week4-credit-card-fraud-detection/) | Fintech / Fraud Detection | Naive Bayes, Random Forest | ✅ Complete |
 | Week 5 | [Stock Return Predictor](./week5-stock-return-predictor/) | Fintech / Quantitative Finance | Linear, Ridge & Lasso regression | ✅ Complete |
+| Week 6 | [Customer_segmentation](./week6-customer-segmentation/) | Fintech / Customer Analytics | PCA , K-Means | ✅ Complete |
+| Week 7 | [Market Basket Analysis](./week7-market-basket-analysis/) | Retail / Market Basket Analysis | Apriori, FP-growth | ✅ Complete |
 
 *New projects added weekly as the roadmap progresses.*
 
@@ -49,9 +51,21 @@ The journey is structured across 18 weeks, moving from core foundations to advan
 ```
 AI-ML-Journey/
 ├── README.md                              ← you are here
-└── week3-loan-default-classification/
-    ├── week3_loan_default_classifier.ipynb
-    └── README.md
+├── week3-loan-default-classification/
+│   ├── README.md
+│   └── Week3_Loan_Default_Classifier.ipynb
+├── week4-credit-card-fraud-detection/
+│   ├── README.md
+│   └── Week4_Credit_Card_Fraud_Detection.ipynb
+├── week5-stock-return-predictor/
+│   ├── README.md
+│   └── week5_stock_return_predictor.ipynb
+├── week6-customer-segmentation/
+│   ├── README.md
+│   └── week6_customer_segmentation.ipynb
+└── week7-market-basket-analysis/
+    ├── README.md
+    └── week7_market_basket_analysis.ipynb
 ```
 
 *Structure grows as new projects are added.*

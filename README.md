@@ -16,7 +16,7 @@ This is not a collection of tutorials followed. It is a record of problems solve
 | Week 5 | [Stock Return Predictor](./week5-stock-return-predictor/) | Fintech / Quantitative Finance | Linear, Ridge & Lasso regression | ✅ Complete |
 | Week 6 | [Customer_segmentation](./week6-customer-segmentation/) | Fintech / Customer Analytics | PCA , K-Means | ✅ Complete |
 | Week 7 | [Market Basket Analysis](./week7-market-basket-analysis/) | Retail / Market Basket Analysis | Apriori, FP-growth | ✅ Complete |
-
+| Week 9 | [IPO Subscription Predictor](./week9-IPO-subscription-predictor/) | Fintech / Capital Markets | SVC, Random Forest, XGBoost | ✅ Complete |
 *New projects added weekly as the roadmap progresses.*
 
 ---
@@ -63,9 +63,13 @@ AI-ML-Journey/
 ├── week6-customer-segmentation/
 │   ├── README.md
 │   └── week6_customer_segmentation.ipynb
-└── week7-market-basket-analysis/
+│── week7-market-basket-analysis/
+│    ├── README.md
+│    └── week7_market_basket_analysis.ipynb
+└── week9-IPO-subscription-predictor/
     ├── README.md
-    └── week7_market_basket_analysis.ipynb
+    └── week9_ipo_subscription_predictor.ipynb
+    
 ```
 
 *Structure grows as new projects are added.*

@@ -17,6 +17,7 @@ This is not a collection of tutorials followed. It is a record of problems solve
 | Week 6 | [Customer_segmentation](./week6-customer-segmentation/) | Fintech / Customer Analytics | PCA , K-Means | ✅ Complete |
 | Week 7 | [Market Basket Analysis](./week7-market-basket-analysis/) | Retail / Market Basket Analysis | Apriori, FP-growth | ✅ Complete |
 | Week 9 | [IPO Subscription Predictor](./week9-IPO-subscription-predictor/) | Fintech / Capital Markets | SVC, Random Forest, XGBoost | ✅ Complete |
+| Week 10 | [Credit Scoring Neural Network](./week10-german-data-credit-scoring-nn/) | Fintech / Credit Risk | Random Forest, MLPClassifier, Keras Neural Network | ✅ Complete |
 *New projects added weekly as the roadmap progresses.*
 
 ---
@@ -66,9 +67,12 @@ AI-ML-Journey/
 │── week7-market-basket-analysis/
 │    ├── README.md
 │    └── week7_market_basket_analysis.ipynb
-└── week9-IPO-subscription-predictor/
+│── week9-IPO-subscription-predictor/
+│   ├── README.md
+│    └── week9_ipo_subscription_predictor.ipynb
+└── week10-german-data-credit-scoring-nn
     ├── README.md
-    └── week9_ipo_subscription_predictor.ipynb
+    └── week10_credit_scoring_nn.ipynb
     
 ```
 

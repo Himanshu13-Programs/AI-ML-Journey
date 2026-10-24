@@ -20,6 +20,7 @@ This is not a collection of tutorials followed. It is a record of problems solve
 | Week 10 | [Credit Scoring Neural Network](./week10-german-data-credit-scoring-nn/) | Fintech / Credit Risk | Random Forest, MLPClassifier, Keras Neural Network | ✅ Complete |
 | Week 11 | [Pneumonia Detection from Chest X-rays](./week11-pneumonia-detection-using-cnn/) | Healthcare / Medical Imaging | Convolutional Neural Network (PyTorch) | ✅ Complete |
 | Week 12 | [Stock Price Prediction](https://github.com/Himanshu13-Programs/AI-ML-Journey/blob/main/week12-stock-price-prediction-comparative-study) | Fintech / Quantitative Finance | LSTM, GRU, 1D-CNN, LSTM + Embedding | ✅ Complete |
+| Week 14 | [Financial News Sentiment Analysis](./week14-financial-news-sentiment/) | Fintech / NLP | TF-IDF + Logistic Regression, FinBERT (zero-shot & fine-tuned) | ✅ Complete |
 *New projects added weekly as the roadmap progresses.*
 
 ---

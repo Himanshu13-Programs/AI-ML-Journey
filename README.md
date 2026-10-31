@@ -21,6 +21,7 @@ This is not a collection of tutorials followed. It is a record of problems solve
 | Week 11 | [Pneumonia Detection from Chest X-rays](./week11-pneumonia-detection-using-cnn/) | Healthcare / Medical Imaging | Convolutional Neural Network (PyTorch) | ✅ Complete |
 | Week 12 | [Stock Price Prediction](https://github.com/Himanshu13-Programs/AI-ML-Journey/blob/main/week12-stock-price-prediction-comparative-study) | Fintech / Quantitative Finance | LSTM, GRU, 1D-CNN, LSTM + Embedding | ✅ Complete |
 | Week 14 | [Financial News Sentiment Analysis](./week14-financial-news-sentiment/) | Fintech / NLP | TF-IDF + Logistic Regression, FinBERT (zero-shot & fine-tuned) | ✅ Complete |
+| Week 15 | [Financial News Summarizer](./week15-financial-news-summary/) | Fintech / NLP | LLM prompting (`gpt-oss-120b` on Groq), hallucination rubric  | ✅ Complete |
 *New projects added weekly as the roadmap progresses.*
 
 ---

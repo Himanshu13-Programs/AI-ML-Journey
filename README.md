@@ -22,7 +22,8 @@ This is not a collection of tutorials followed. It is a record of problems solve
 | Week 12 | [Stock Price Prediction](https://github.com/Himanshu13-Programs/AI-ML-Journey/blob/main/week12-stock-price-prediction-comparative-study) | Fintech / Quantitative Finance | LSTM, GRU, 1D-CNN, LSTM + Embedding | ✅ Complete |
 | Week 14 | [Financial News Sentiment Analysis](./week14-financial-news-sentiment/) | Fintech / NLP | TF-IDF + Logistic Regression, FinBERT (zero-shot & fine-tuned) | ✅ Complete |
 | Week 15 | [Financial News Summarizer](./week15-financial-news-summary/) | Fintech / NLP | LLM prompting (`gpt-oss-120b` on Groq), hallucination rubric  | ✅ Complete|
-| Week 16 | [Clef Support Chatbot](./week16_simple_rag/) | Support / NLP | RAG (Qdrant, `all-MiniLM-L6-v2`, `gpt-oss-120b` on Groq), retrieval + faithfulness eval | ✅ Complete |
+| Week 16 | [Clef Support Chatbot](./week16-simple-rag/) | Support / NLP | RAG (Qdrant, `all-MiniLM-L6-v2`, `gpt-oss-120b` on Groq), retrieval + faithfulness eval | ✅ Complete |
+| Week 17 | [Company Filing Extractor](./week17-filing-extractor/) | Fintech / Document Extraction | Structured outputs (JSON mode, schema-constrained, tool calling), Pydantic validation + retry, few-shot prompting (`gpt-oss-120b` on Groq) | ✅ Complete |
 *New projects added weekly as the roadmap progresses.*
 
 ---
@@ -69,15 +70,33 @@ AI-ML-Journey/
 ├── week6-customer-segmentation/
 │   ├── README.md
 │   └── week6_customer_segmentation.ipynb
-│── week7-market-basket-analysis/
-│    ├── README.md
-│    └── week7_market_basket_analysis.ipynb
-│── week9-IPO-subscription-predictor/
+├── week7-market-basket-analysis/
 │   ├── README.md
-│    └── week9_ipo_subscription_predictor.ipynb
-└── week10-german-data-credit-scoring-nn
+│   └── week7_market_basket_analysis.ipynb
+├── week9-IPO-subscription-predictor/
+│   ├── README.md
+│   └── week9_ipo_subscription_predictor.ipynb
+├── week10-german-data-credit-scoring-nn/
+│   ├── README.md
+│   └── week10_credit_scoring_nn.ipynb
+├── week11-pneumonia-detection-using-cnn/
+│   ├── README.md
+│   └── week11_pneumonia_detection_cnn.ipynb
+├── week12-stock-price-prediction-comparative-study/
+│   ├── README.md
+│   └── week12_stock_price_prediction.ipynb
+├── week14-financial-news-sentiment/
+│   ├── README.md
+│   └── week14_financial_news_sentiment.ipynb
+├── week15-financial-news-summary/
+│   ├── README.md
+│   └── week15_financial_news_summary.ipynb
+├── week16-simple-rag/
+│   ├── README.md
+│   └── week16_simple_rag.ipynb
+└── week17-filing-extractor/
     ├── README.md
-    └── week10_credit_scoring_nn.ipynb
+    └── week17_filing_extractor.ipynb
     
 ```
 
